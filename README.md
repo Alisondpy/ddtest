@@ -11,7 +11,7 @@
   ```
   
   2.发送邮件给运维主管熊利（邮箱账号为xiongli@zhongzhihui.com申请SVN账号及权限并同时抄送给前端主管蒋朝益（邮箱账号jiangchaoyi@zhongzhihui.com）；
-  3.申请git账号，把申请后的账号发送告知主管，加入前端项目组，后期的前端项目都需要通过git来管理；
+  3.申请git账号，把申请后的账号发送告知主管，加入前端项目组，后期的前端项目都需要通过git来管理（待定）；
   4.[confluence账号注册](http://192.168.1.10:8090/signup.action?token=5d72afb871b88903)，加入项目组后，请把自己的姓名备注成 岗位+姓名；
   5.[worktile账号申请,查看项目进度](https://worktile.com/signin) 加入后，请把自己的姓名备注成 岗位+姓名；
   6.[阿里巴巴icon库注册](http://www.iconfont.cn/)
