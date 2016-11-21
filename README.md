@@ -6,6 +6,7 @@
   3. 申请git账号，前端项目都需要发到git账号上。
   4. [confluence账号注册](http://192.168.1.10:8090/signup.action?token=5d72afb871b88903)
   5. [worktile账号申请,查看项目进度](https://worktile.com/signin)
+  6.[阿里巴巴icon库注册](http://www.iconfont.cn/)
 
 ## 中智汇项目大概介绍
 公司所有项目都是基于公共服务平台入口的，现在主要有三个项目，党校项目（电商学院版块），大学生项目（人才基地版块），服务市场。具体参考[杭州公共服务平台网址](http://www.hzecps.org) 党校项目及服务市场同时还有微信端页面
